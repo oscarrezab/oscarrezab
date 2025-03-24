@@ -6,13 +6,17 @@ My name is Oscar and I love computers. You'll find me working on and learning ab
 ---
 ## 🛠️ Tools and Frameworks
 Here are some of the tools I use the most, always open to pick up something new!
-* **Languages:** Python, Java, HTML, CSS
+* **Languages:** Python, Java, HTML/CSS/Javascript
 * **Libraries/Frameworks:** Tensorflow (Keras), PyTorch, React
-* **Databases:** MongoDB
+* **Databases:** MongoDB, MariaDB (SQL)
 
 ---
 ## 📚 Currently learning
 What I study at school
+* Database Management Systems
+* Algorithm Design and Analysis
+
+What I have studied 
 * Natural Language Processing
 * Linear Algebra
 * Data Structures and Algorithms
