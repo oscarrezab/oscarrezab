@@ -1,14 +1,14 @@
 ## 👋 Hello and welcome!
-My name is Oscar and I love computers. You'll find me working on and learning about Machine Learning and other related topics. Other fields I love learning about are cognitive science, environmental science, and psychology. I also enjoy playing music or a good tennis match!
+My name is Oscar and I love computers. You'll find me working on and learning about Machine Learning, data, and other related topics. Other fields I love learning about are cognitive science, environmental science, education, and psychology. I also enjoy playing music or a good tennis match!
 * 🌎 Based in St. Paul, MN
 * 🎓 Studying Computer Science at Macalester College
 
 ---
 ## 🛠️ Tools and Frameworks
 Here are some of the tools I use the most, always open to pick up something new!
-* **Languages:** Python, Java, HTML/CSS/Javascript
-* **Libraries/Frameworks:** Tensorflow (Keras), PyTorch, React
-* **Databases:** MongoDB, MariaDB (SQL)
+* **Languages:** Python, Java, HTML/CSS/Javascript, SQL
+* **Libraries/Frameworks:** Tensorflow (Keras), PyTorch, React, dbt, Apache Airflow
+* **Databases:** MongoDB, Snowflake, PostgreSQL
 
 ---
 ## 📚 Currently learning
@@ -26,8 +26,9 @@ What I have studied
 I am mostly interested in the following:
 * Deep Learning (NLP or Computer Vision)
 * Autonomous Vehicle Systems
+* Education Technology (Ed-Tech)
 
-But I am always open to exploring new stuff :)
+And the list keeps growing, so I am always open to exploring new stuff :)
 
 ---
 ## 🤝 How to contact me
