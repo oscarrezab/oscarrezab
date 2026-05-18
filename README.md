@@ -13,20 +13,25 @@ Here are some of the tools I use the most, always open to pick up something new!
 ---
 ## 📚 Currently learning
 What I study at school
-* Database Management Systems
-* Algorithm Design and Analysis
+* Probability
+* AI for Robotics
 
 What I have studied 
 * Natural Language Processing
 * Linear Algebra
 * Data Structures and Algorithms
+* Database Management Systems
+* Algorithm Design and Analysis
+* Computer Systems
+* Statistical Machine Learning
 
 ---
 ## 🔍 Areas of interest
 I am mostly interested in the following:
-* Deep Learning (NLP or Computer Vision)
+* Deep Learning (Computer Vision or NLP)
 * Autonomous Vehicle Systems
-* Education Technology (Ed-Tech)
+* Education Technology (EdTech)
+* Financial Technology (FinTech)
 
 And the list keeps growing, so I am always open to exploring new stuff :)
 
